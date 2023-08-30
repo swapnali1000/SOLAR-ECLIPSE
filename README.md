@@ -1,7 +1,6 @@
 # Welcome To The Space💫
 
-![screenshot](./img/uni.png)
-
+ <img src="./img/uni.png" />
 
 ## EARTH ROTATION AND REVOLUTION🌌
 These are the three objects Earth, Sun, and Moon that have the greatest impact on our lives.
