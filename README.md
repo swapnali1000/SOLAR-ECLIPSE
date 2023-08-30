@@ -1,6 +1,6 @@
 # Welcome To The Space💫
 
-![screenshot](img/uni.png)
+![screenshot](./img/uni.png)
 
 
 ## EARTH ROTATION AND REVOLUTION🌌
